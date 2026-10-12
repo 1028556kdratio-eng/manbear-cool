@@ -1,0 +1,18 @@
+{
+  "growl": { "subtitle": "subtitles.manbear.growl", "sounds": [
+    { "name": "minecraft:entity.polar_bear.ambient", "type": "event", "pitch": 0.55, "volume": 1.0 },
+    { "name": "minecraft:entity.ravager.ambient",    "type": "event", "pitch": 0.6,  "volume": 0.9 } ] },
+  "huff": { "subtitle": "subtitles.manbear.huff", "sounds": [
+    { "name": "minecraft:entity.polar_bear.ambient", "type": "event", "pitch": 0.45, "volume": 0.6 } ] },
+  "roar": { "subtitle": "subtitles.manbear.roar", "sounds": [
+    { "name": "minecraft:entity.polar_bear.warning", "type": "event", "pitch": 0.5,  "volume": 1.0 },
+    { "name": "minecraft:entity.ravager.roar",       "type": "event", "pitch": 0.75, "volume": 1.0 } ] },
+  "snarl": { "subtitle": "subtitles.manbear.snarl", "sounds": [
+    { "name": "minecraft:entity.polar_bear.warning", "type": "event", "pitch": 0.7, "volume": 1.0 } ] },
+  "hurt": { "subtitle": "subtitles.manbear.hurt", "sounds": [
+    { "name": "minecraft:entity.polar_bear.hurt", "type": "event", "pitch": 0.6, "volume": 1.0 } ] },
+  "death": { "subtitle": "subtitles.manbear.death", "sounds": [
+    { "name": "minecraft:entity.polar_bear.death", "type": "event", "pitch": 0.5, "volume": 1.0 } ] },
+  "step": { "subtitle": "subtitles.manbear.step", "sounds": [
+    { "name": "minecraft:entity.ravager.step", "type": "event", "pitch": 0.7, "volume": 0.8 } ] }
+}

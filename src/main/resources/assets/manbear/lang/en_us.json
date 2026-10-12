@@ -1,0 +1,12 @@
+{
+  "entity.manbear.manbear": "Manbear",
+  "block.manbear.bear_trap": "Bear Trap",
+  "item.manbear.manbear_spawn_egg": "Manbear Spawn Egg",
+  "subtitles.manbear.growl": "Manbear growls",
+  "subtitles.manbear.huff": "Something breathes heavily",
+  "subtitles.manbear.roar": "Manbear roars",
+  "subtitles.manbear.snarl": "Manbear snarls",
+  "subtitles.manbear.hurt": "Manbear hurts",
+  "subtitles.manbear.death": "Manbear dies",
+  "subtitles.manbear.step": "Heavy footsteps"
+}
